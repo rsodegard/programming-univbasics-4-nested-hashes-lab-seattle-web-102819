@@ -82,7 +82,7 @@ def adding_matz
         }
      }
   newly_added_to = { programmer_hash[:key] = "Value"  }
-
+  p newly_added_to
     
 end
 
