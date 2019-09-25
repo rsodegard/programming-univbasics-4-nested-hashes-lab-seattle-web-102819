@@ -15,6 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
+    programmer_hash[:grace_hooper][:known_for]
 
 
 end
